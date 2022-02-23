@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Flattering elegie vpon the death of King Charles the cleane contrary way : with a parallell something significant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39657</idno>
+            <idno type="STC">Wing F1156</idno>
+            <idno type="STC">ESTC R15469</idno>
+            <idno type="EEBO-CITATION">12255760</idno>
+            <idno type="OCLC">ocm 12255760</idno>
+            <idno type="VID">57442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Flattering elegie vpon the death of King Charles the cleane contrary way : with a parallell something significant.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from NUC pre-1956.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57442:1"/>
+            <pb facs="tcp:57442:1"/>
+            <p>A Flattering ELEGIE Vpon the death of King <hi>Charles:</hi> The cleane contrary way.</p>
+            <p>
+               <hi>With a Parallell ſomething ſignificant.</hi>
+            </p>
+            <p>Printed in the Yeare 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:57442:2"/>
+            <pb n="3" facs="tcp:57442:2"/>
+            <head>
+               <hi>A flattering</hi> ELEGIE, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>VVEre all the flatt'ry in the world in me,</l>
+               <l>Yet (Royall ſoule) I could not flatter thee:</l>
+               <l>Celeſtiall joyes thy bleſſed ſpirit includes</l>
+               <l>In full fruition of Beatitudes.</l>
+               <l>Immortall Martyr'd Monarch, to thy Hearſe</l>
+               <l>I dedicate my poore unpolliſh'd Verſe:</l>
+               <l>I flattering flatter not, but I commend</l>
+               <l>Thoſe Villaines that procur'd thy glorious end:</l>
+               <l>Thoſe holy men that vow'd to quell Oppreſſors,</l>
+               <l>And make thee greater then thy Predeceſſors:</l>
+               <l>I flatter none but ſuch, and ſtill I pray</l>
+               <l>They may be bleſt the cleane contrary way.</l>
+               <l>'Tis wonder how theſe Atheiſts dare to frame</l>
+               <l>Their prayers to God; or call upon his name,</l>
+               <l>When they believe there is no God at all;</l>
+               <l>But that (by nature) all things ſtand or fall:</l>
+               <l>For to know God is truſt in him alone,</l>
+               <l>And to believe Gods word and God are one:</l>
+               <l>And as ſure as his Word and he are true,</l>
+               <l>So ſure damnation is the Rebels due: <note place="margin">Rom. 13.</note>
+               </l>
+               <l>Their Humiliations and Hypocriſie</l>
+               <l>Can never expiate their perjury:</l>
+               <l>Their feigned Faſts and ſeeming penitence</l>
+               <l>Were mockeries of Gods high omnipotence:</l>
+               <l>Daies of Thanks giving were in uſe no further,</l>
+               <l>But to praiſe God for their committing murther;</l>
+               <l>Or when they had done miſchiefe to the King,</l>
+               <l>Then would they give God thanks, and Bells ſhould ring:</l>
+               <l>Some good thoſe wicked Imps of Hell have done,</l>
+               <l>We may chooſe our Religion all, or none;</l>
+               <l>Or any that will pleaſe our fancies well;</l>
+               <l>We may be Pagan, Jew, Turke, Infidell;</l>
+               <l>Or the Religion of a Horſe or Mule,</l>
+               <l>(Where God commands not, where no King doth rule)</l>
+               <pb n="4" facs="tcp:57442:3"/>
+               <l>We may be Proteſtants againe (they ſay)</l>
+               <l>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vided that we will no King obey:</l>
+               <l>Let's never ſtrive more to be Chriſtians then,</l>
+               <l>Since Godleſſe Villaines are held beſt of men.</l>
+               <l>England was ſick of too much eaſe and wealth;</l>
+               <l>The Divell was ſick too, and to gaine his health,</l>
+               <l>He tooke from's Doctor and Apothecary</l>
+               <l>A Vomit, Cliſter, and Suppoſitary:</l>
+               <l>The Phyſick would not worke, which griev'd him more;</l>
+               <l>His Grip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and pangs made him make Hell to roar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>At laſt to England he a journey makes</l>
+               <l>And turn'd our happy Kingdome to his Jakes:</l>
+               <l>His damned Phyſick here wrought up and downe,</l>
+               <l>In Church, Court Countrey, City, Village, Towne.</l>
+               <l>Here (from his Helliſh throat) he ſpawl'd and ſpew'd</l>
+               <l>Of Sectaries a curſed Multitude,</l>
+               <l>Presbyters, Independents, Agitators,</l>
+               <l>Thieves, Murderers, rude Rebels, and falſe Traytors,</l>
+               <l>And from his gut beneath he vented out</l>
+               <l>An ill look't vermine with a fiery ſnowt,</l>
+               <l>Who as he ſquirted from's infernall Breech,</l>
+               <l>It ſcalded him and made his Divelſhip ſcreech.</l>
+               <l>A mighty blackfac'd worme he eke did void,</l>
+               <l>And thoſe two have our happineſſe deſtroy'd.</l>
+               <l>And thus the Divels excrements did vent</l>
+               <l>A curſed Army, and a Parliament.</l>
+               <l>Thus did this vomit, and this purge defile,</l>
+               <l>With putrifaction, this moſt famous Ile:</l>
+               <l>That ſtinking ſtuffe, bred Frogs, Toads, Caterpillers;</l>
+               <l>(The worſt of vermine, Traytors and King-killers)</l>
+               <l>The noy ſome favour of theſe fowle contagions</l>
+               <l>Flew into every Kingdome, Lands and Regions;</l>
+               <l>That now our names and fames ſtinke every where,</l>
+               <l>And will not ſoone be ſweet againe I fear.</l>
+               <l>Thus have they begger'd Englands common weale,</l>
+               <l>And all good men may either beg or ſteale,</l>
+               <pb n="5" facs="tcp:57442:3"/>
+               <l>Or ſtarve; chuſe which of all thoſe three:</l>
+               <l>Or hazard Newgate and the Tryple tree,</l>
+               <l>Whilſt they ſurprize the goods of any mans,</l>
+               <l>And ride in pompe in Coaches and Sedans.</l>
+               <l>Like Sea and Hell are their inſatiate Mawes,</l>
+               <l>They have devour'd Church, Kingdome, King and Lawes:</l>
+               <l>Of Sequeſtrations, foure ſcore thouſand, odde,</l>
+               <l>And (if they could) they would Sequeſter God.</l>
+               <l>All the Kings jewels, Scepter, and his Crowne,</l>
+               <l>Lands and all goods which Kings have held their owne;</l>
+               <l>All the Revenues they have ſwallowed clear,</l>
+               <l>(Worth fifteen hundred thouſand pounds a year)</l>
+               <l>All Forreſts, and Kings woods, all Churches lands,</l>
+               <l>They 've grip'd into their Avaricious hands,</l>
+               <l>All plundrings, Contributions, and Exciſe,</l>
+               <l>Free Loanes, forc'd Loanes, Taxes and penalties;</l>
+               <l>Pole moneys, weekly meales and Subſidies, 50.</l>
+               <l>All theſe cannot their greedy guts ſuffice.</l>
+               <l>An hundred millions they 've near ſpent and loſt,</l>
+               <l>And not one penny of it of their coſt:</l>
+               <l>Yet ſtill they owe ſome millions of arreares:</l>
+               <l>With great ingagements more as it appeares</l>
+               <l>The Publique Faith is now ſo faithleſſe found,</l>
+               <l>Lenders would take five ſhillings in the pound;</l>
+               <l>And maney for arreares right glad would be,</l>
+               <l>For every twenty ſhillings to have three.</l>
+               <l>But there are cheaper waies to pay arrears,</l>
+               <l>To ſtarve or hang 'em up all reckoning clears;</l>
+               <l>Death quits all ſcores, let them be long delay'd,</l>
+               <l>And they 'le be kil'd, or hang'd, and then all's payd.</l>
+               <l>For wealth, and pride, and power, their ſoules they've ſold,</l>
+               <l>And never will be fill'd with bloud and gold:</l>
+               <l>Thus they imagine miſchief every day,</l>
+               <l>Pray'd for and bleſt the clean contrary way.</l>
+               <l>The year full ſixteen hundred and two ſcore,</l>
+               <l>King CHARLES from Scotland came, and never more</l>
+               <pb n="6" facs="tcp:57442:4"/>
+               <l>Was flattry us'd with great magnificence,</l>
+               <l>The City London entertain'd their Prince,</l>
+               <l>Mark how the curſed Jews Hoſanna cry'd</l>
+               <l>When Chriſt into Hieruſalem did ride;</l>
+               <l>With boughs they deckt their doors, and in their ſtreet</l>
+               <l>They threw their garments, trampled under feet:</l>
+               <l>Theſe flattring duties then thoſe Jews did ſhew,</l>
+               <l>To whom both heaven and earth obedience owe;</l>
+               <l>Yet few dayes after their malitious ſtrife,</l>
+               <l>Did crucifie our glorious Lord of life.</l>
+               <l>Much like to this was Londons fading flame</l>
+               <l>Of love, when royall CHARLES from Scotland came,</l>
+               <l>They rang the Bels, and Bonefires were conſum'd;</l>
+               <l>Thouſands were ſick with Healths, and th' aire perfum'd,</l>
+               <l>With Cannons thundring roar and chimneis reake;</l>
+               <l>Yea all that heart could think or tongue could ſpeak:</l>
+               <l>By flattring Loyalty was then expreſt</l>
+               <l>With th' entertainment of a mighty Feaſt.</l>
+               <l>This did brave London do, yet pray but note,</l>
+               <l>In three dayes after they would cut his throat;</l>
+               <l>For thouſands of them did like fiends conjoyn,</l>
+               <l>To ſpend their lives, their ſouls, their goods, and coyne,</l>
+               <l>And many a Thimble, Bodkin, and a Ring,</l>
+               <l>They offered up to ſacrifice their King:</l>
+               <l>Oh faithleſſe truſt! accurs'd with flattry varniſht,</l>
+               <l>Like to a rotten Sepulchre new garniſht:</l>
+               <l>And as the City hath this miſchief bought,</l>
+               <l>For which the Parliament our ruines brought;</l>
+               <l>So a ſeditious Army baſe and ſcurvy</l>
+               <l>Hath turn'd the Parliament quite topſie turvy:</l>
+               <l>So Parliament and City dare not act,</l>
+               <l>Except great TOM and NOL approve the fact.</l>
+               <l>Some wonders do but laſt a nine daies ſpace;</l>
+               <l>But this is not our murdred Soveraignes caſe,</l>
+               <l>For God (whoſe dreadfull voice is more then thunder)</l>
+               <l>Will make King CHARLES his bloud ten ages wonder:</l>
+               <pb n="7" facs="tcp:57442:4"/>
+               <l>So wiſe, ſo juſt, ſo mercifull, ſo good,</l>
+               <l>So happy, (had he well been underſtood)</l>
+               <l>That we had all been happy, had we bin</l>
+               <l>So bleſt as not to kill him with our ſin.</l>
+               <l>As ſure as man dies when he ath loſt his head,</l>
+               <l>So with one blow three Kingdomes are ſtruck dead:</l>
+               <l>The ignorant accus'd JEVVES SANHEDRIM</l>
+               <l>Were not ſo guilty of ſelfe-knowing ſin.</l>
+               <l>Great PONTIUS PILATE on's Tribunall Throne,</l>
+               <l>To judge the High eternall THREE in ONE,</l>
+               <l>He did not know what then our Saviour was,</l>
+               <l>Yet did corrupt unwilling cenſure paſſe:</l>
+               <l>He was a Heathen and from him was hid</l>
+               <l>Such knowledge that he knew not what he did:</l>
+               <l>He was not brib'd with thouſands, gold, or gaine,</l>
+               <l>As BRAD SHAVV was to judge his SOVERAIGNE:</l>
+               <l>PILATE had full authority and power</l>
+               <l>From great TIBERIUS, Romes high Emperour:</l>
+               <l>But our uſurping Preſident did know</l>
+               <l>His power was falſe and that himſelfe did owe</l>
+               <l>(With all his fellow Knaves) obedience</l>
+               <l>To him that ſtood arraign'd by falſe pretence:</l>
+               <l>You knew, but would not know; then here's your lot,</l>
+               <l>Depart from me for now I know you not.</l>
+               <l>But yet when Heavens juſt Judge ſhall all decide</l>
+               <l>Thoſe Jewes before you ſhall be juſtified;</l>
+               <l>You ſinn'd againſt your conſciences, you knew</l>
+               <l>Your King (the beſt of Kings) was in your view:</l>
+               <l>He unto whom you plighted had your troaths</l>
+               <l>By Proteſtation, Covenant and Oaths</l>
+               <l>Of true Allegiance and Supremacy,</l>
+               <l>And that you'd make him great moſt gloriouſly.</l>
+               <l>You knew the King was innocent and right,</l>
+               <l>You knew your curſed hearts were full of ſpight:</l>
+               <l>You knew your malice 'gainſt his life conſpir'd,</l>
+               <l>You knew falſe witneſſes ſuborn'd and hir'd:</l>
+               <pb n="8" facs="tcp:57442:5"/>
+               <l> You knew that BRADSHAVV and COOKE (INCUBUS)</l>
+               <l>Were Villaines, both the ſons of CERBERUS.</l>
+               <l>You knew not one amongſt your damned Crew</l>
+               <l>Was friend unto the King this you all knew:</l>
+               <l>You knew that by the Laws it plain appeares</l>
+               <l>That every man, ſhould be try'd by his Peeres;</l>
+               <l>For in my life I never yet have heard it,</l>
+               <l>But common men, had common Juries Verdict:</l>
+               <l>Peeres try'd by Peeres, but no Record yet brings</l>
+               <l>But Kings ſhould be a Jury unto Kings:</l>
+               <l>This is the thing that all our lives enſlaves,</l>
+               <l>That Tapſters, Drawers, Firkin men (proud knaves)</l>
+               <l>Were by a foiſting Parliament appoynted</l>
+               <l>To judge and doome to death the Lords Anoynted.</l>
+               <l>You knew the accurſed wealth you 'aue rak'd and pull'd</l>
+               <l>From three rich Kingdomes baſely cheated, gull'd:</l>
+               <l>And you did feare if CHARLES ſhould once more Raigne,</l>
+               <l>You ſhould reſtore your theeviſh gaines againe.</l>
+               <l>You knew your guilt of ſuch tranſcendency,</l>
+               <l>You durſt not truſt offended Majeſty:</l>
+               <l>For which we know, your want of wit and grace</l>
+               <l>Have glorified him in a better place.</l>
+               <l>For this black deed, I'le tell what will enſue,</l>
+               <l>Three Kingdomes ſpoyle, damnation unto you:</l>
+               <l>All Chriſtendome will hold you moſt abhorr'd</l>
+               <l>For murdering of your gracious Soveraigne Lord:</l>
+               <l>In any Countrey where this crime is knowne,</l>
+               <l>An Engliſh man dares not his Country owne.</l>
+               <l>Turkes, Pagans Heathens, Jewes, and rugged Tartars,</l>
+               <l>In all wars willgive Engliſh men no quarters:</l>
+               <l>As you accurs'd have liv'd, accurſed dye,</l>
+               <l>Or elſe repent, or damne perpetually.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57442:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
